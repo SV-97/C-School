@@ -1,0 +1,8 @@
+H:\Visual Studio 2010\Projects\006_Bremswegrechner\006_Bremswegrechner\bin\Debug\006_Bremswegrechner.exe
+H:\Visual Studio 2010\Projects\006_Bremswegrechner\006_Bremswegrechner\bin\Debug\006_Bremswegrechner.pdb
+H:\Visual Studio 2010\Projects\006_Bremswegrechner\006_Bremswegrechner\obj\x86\Debug\_006_Bremswegrechner.Form1.resources
+H:\Visual Studio 2010\Projects\006_Bremswegrechner\006_Bremswegrechner\obj\x86\Debug\_006_Bremswegrechner.Properties.Resources.resources
+H:\Visual Studio 2010\Projects\006_Bremswegrechner\006_Bremswegrechner\obj\x86\Debug\006_Bremswegrechner.csproj.GenerateResource.Cache
+H:\Visual Studio 2010\Projects\006_Bremswegrechner\006_Bremswegrechner\obj\x86\Debug\006_Bremswegrechner.exe
+H:\Visual Studio 2010\Projects\006_Bremswegrechner\006_Bremswegrechner\obj\x86\Debug\006_Bremswegrechner.pdb
+H:\Visual Studio 2010\Projects\006_Bremswegrechner\006_Bremswegrechner\obj\x86\Debug\006_Bremswegrechner.csprojResolveAssemblyReference.cache

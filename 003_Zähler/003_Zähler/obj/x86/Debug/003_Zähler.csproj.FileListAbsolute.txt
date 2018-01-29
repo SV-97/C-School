@@ -1,0 +1,7 @@
+H:\Visual Studio 2010\Projects\003_Zähler\003_Zähler\bin\Debug\003_Zähler.exe
+H:\Visual Studio 2010\Projects\003_Zähler\003_Zähler\bin\Debug\003_Zähler.pdb
+H:\Visual Studio 2010\Projects\003_Zähler\003_Zähler\obj\x86\Debug\_003_Zähler.Form1.resources
+H:\Visual Studio 2010\Projects\003_Zähler\003_Zähler\obj\x86\Debug\_003_Zähler.Properties.Resources.resources
+H:\Visual Studio 2010\Projects\003_Zähler\003_Zähler\obj\x86\Debug\003_Zähler.csproj.GenerateResource.Cache
+H:\Visual Studio 2010\Projects\003_Zähler\003_Zähler\obj\x86\Debug\003_Zähler.exe
+H:\Visual Studio 2010\Projects\003_Zähler\003_Zähler\obj\x86\Debug\003_Zähler.pdb

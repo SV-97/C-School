@@ -1,0 +1,3 @@
+H:\Visual Studio 2010\Projects\005_Alkomat\005_Alkomat\obj\x86\Release\_005_Alkomat.Form1.resources
+H:\Visual Studio 2010\Projects\005_Alkomat\005_Alkomat\obj\x86\Release\_005_Alkomat.Properties.Resources.resources
+H:\Visual Studio 2010\Projects\005_Alkomat\005_Alkomat\obj\x86\Release\005_Alkomat.csproj.GenerateResource.Cache
