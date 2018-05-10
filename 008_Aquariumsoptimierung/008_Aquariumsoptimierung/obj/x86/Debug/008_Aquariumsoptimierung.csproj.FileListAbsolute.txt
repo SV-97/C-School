@@ -1,0 +1,8 @@
+H:\Visual Studio 2010\Projects\008_Aquariumsoptimierung\008_Aquariumsoptimierung\obj\x86\Debug\_008_Aquariumsoptimierung.Form1.resources
+H:\Visual Studio 2010\Projects\008_Aquariumsoptimierung\008_Aquariumsoptimierung\obj\x86\Debug\_008_Aquariumsoptimierung.Properties.Resources.resources
+H:\Visual Studio 2010\Projects\008_Aquariumsoptimierung\008_Aquariumsoptimierung\obj\x86\Debug\008_Aquariumsoptimierung.csproj.GenerateResource.Cache
+H:\Visual Studio 2010\Projects\008_Aquariumsoptimierung\008_Aquariumsoptimierung\bin\Debug\008_Aquariumsoptimierung.exe
+H:\Visual Studio 2010\Projects\008_Aquariumsoptimierung\008_Aquariumsoptimierung\bin\Debug\008_Aquariumsoptimierung.pdb
+H:\Visual Studio 2010\Projects\008_Aquariumsoptimierung\008_Aquariumsoptimierung\obj\x86\Debug\008_Aquariumsoptimierung.exe
+H:\Visual Studio 2010\Projects\008_Aquariumsoptimierung\008_Aquariumsoptimierung\obj\x86\Debug\008_Aquariumsoptimierung.pdb
+H:\Visual Studio 2010\Projects\008_Aquariumsoptimierung\008_Aquariumsoptimierung\obj\x86\Debug\008_Aquariumsoptimierung.csprojResolveAssemblyReference.cache

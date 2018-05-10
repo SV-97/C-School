@@ -1,0 +1,10 @@
+D:\Git Repos\C# School\011_Statistik\011_Statistik\bin\Debug\011_Statistik.exe.config
+D:\Git Repos\C# School\011_Statistik\011_Statistik\bin\Debug\011_Statistik.exe
+D:\Git Repos\C# School\011_Statistik\011_Statistik\bin\Debug\011_Statistik.pdb
+D:\Git Repos\C# School\011_Statistik\011_Statistik\obj\Debug\011_Statistik.csprojResolveAssemblyReference.cache
+D:\Git Repos\C# School\011_Statistik\011_Statistik\obj\Debug\_011_Statistik.Form1.resources
+D:\Git Repos\C# School\011_Statistik\011_Statistik\obj\Debug\_011_Statistik.Properties.Resources.resources
+D:\Git Repos\C# School\011_Statistik\011_Statistik\obj\Debug\011_Statistik.csproj.GenerateResource.Cache
+D:\Git Repos\C# School\011_Statistik\011_Statistik\obj\Debug\011_Statistik.csproj.CoreCompileInputs.cache
+D:\Git Repos\C# School\011_Statistik\011_Statistik\obj\Debug\011_Statistik.exe
+D:\Git Repos\C# School\011_Statistik\011_Statistik\obj\Debug\011_Statistik.pdb

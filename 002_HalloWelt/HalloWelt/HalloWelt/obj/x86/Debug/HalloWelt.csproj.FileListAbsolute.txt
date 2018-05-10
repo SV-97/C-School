@@ -1,0 +1,10 @@
+H:\Visual Studio 2010\Projects\002_HalloWelt\HalloWelt\HalloWelt\bin\Debug\HalloWelt.exe
+H:\Visual Studio 2010\Projects\002_HalloWelt\HalloWelt\HalloWelt\bin\Debug\HalloWelt.pdb
+H:\Visual Studio 2010\Projects\002_HalloWelt\HalloWelt\HalloWelt\obj\x86\Debug\HalloWelt.Form1.resources
+H:\Visual Studio 2010\Projects\002_HalloWelt\HalloWelt\HalloWelt\obj\x86\Debug\HalloWelt.Properties.Resources.resources
+H:\Visual Studio 2010\Projects\002_HalloWelt\HalloWelt\HalloWelt\obj\x86\Debug\HalloWelt.csproj.GenerateResource.Cache
+H:\Visual Studio 2010\Projects\002_HalloWelt\HalloWelt\HalloWelt\obj\x86\Debug\HalloWelt.exe
+H:\Visual Studio 2010\Projects\002_HalloWelt\HalloWelt\HalloWelt\obj\x86\Debug\HalloWelt.pdb
+H:\Visual Studio 2010\Projects\002_HalloWelt\HalloWelt\HalloWelt\obj\x86\Debug\HalloWelt.csprojResolveAssemblyReference.cache
+\\franz-oberthuer\daten$\SchuelerHome\TSE1718\volzstefan\Visual Studio 2010\Projects\002_HalloWelt\HalloWelt\HalloWelt\obj\x86\Debug\HalloWelt.exe
+\\franz-oberthuer\daten$\SchuelerHome\TSE1718\volzstefan\Visual Studio 2010\Projects\002_HalloWelt\HalloWelt\HalloWelt\obj\x86\Debug\HalloWelt.pdb

@@ -1,0 +1,7 @@
+H:\Visual Studio 2010\Projects\007_While\007_While\bin\Debug\007_While.exe
+H:\Visual Studio 2010\Projects\007_While\007_While\bin\Debug\007_While.pdb
+H:\Visual Studio 2010\Projects\007_While\007_While\obj\x86\Debug\_007_While.Form1.resources
+H:\Visual Studio 2010\Projects\007_While\007_While\obj\x86\Debug\_007_While.Properties.Resources.resources
+H:\Visual Studio 2010\Projects\007_While\007_While\obj\x86\Debug\007_While.csproj.GenerateResource.Cache
+H:\Visual Studio 2010\Projects\007_While\007_While\obj\x86\Debug\007_While.exe
+H:\Visual Studio 2010\Projects\007_While\007_While\obj\x86\Debug\007_While.pdb

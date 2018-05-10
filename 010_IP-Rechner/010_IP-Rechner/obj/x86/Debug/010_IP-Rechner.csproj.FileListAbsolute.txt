@@ -1,0 +1,17 @@
+H:\Visual Studio 2010\Projects\010_IP-Rechner\010_IP-Rechner\obj\x86\Debug\_010_IP_Rechner.Form1.resources
+H:\Visual Studio 2010\Projects\010_IP-Rechner\010_IP-Rechner\obj\x86\Debug\_010_IP_Rechner.Properties.Resources.resources
+H:\Visual Studio 2010\Projects\010_IP-Rechner\010_IP-Rechner\obj\x86\Debug\010_IP-Rechner.csproj.GenerateResource.Cache
+H:\Visual Studio 2010\Projects\010_IP-Rechner\010_IP-Rechner\bin\Debug\010_IP-Rechner.exe
+H:\Visual Studio 2010\Projects\010_IP-Rechner\010_IP-Rechner\bin\Debug\010_IP-Rechner.pdb
+H:\Visual Studio 2010\Projects\010_IP-Rechner\010_IP-Rechner\obj\x86\Debug\010_IP-Rechner.exe
+H:\Visual Studio 2010\Projects\010_IP-Rechner\010_IP-Rechner\obj\x86\Debug\010_IP-Rechner.pdb
+H:\Visual Studio 2010\Projects\010_IP-Rechner\010_IP-Rechner\obj\x86\Debug\010_IP-Rechner.csprojResolveAssemblyReference.cache
+D:\Git Repos\C# School\010_IP-Rechner\010_IP-Rechner\bin\Debug\010_IP-Rechner.exe
+D:\Git Repos\C# School\010_IP-Rechner\010_IP-Rechner\bin\Debug\010_IP-Rechner.pdb
+D:\Git Repos\C# School\010_IP-Rechner\010_IP-Rechner\obj\x86\Debug\010_IP-Rechner.csprojResolveAssemblyReference.cache
+D:\Git Repos\C# School\010_IP-Rechner\010_IP-Rechner\obj\x86\Debug\_010_IP_Rechner.Form1.resources
+D:\Git Repos\C# School\010_IP-Rechner\010_IP-Rechner\obj\x86\Debug\_010_IP_Rechner.Properties.Resources.resources
+D:\Git Repos\C# School\010_IP-Rechner\010_IP-Rechner\obj\x86\Debug\010_IP-Rechner.csproj.GenerateResource.Cache
+D:\Git Repos\C# School\010_IP-Rechner\010_IP-Rechner\obj\x86\Debug\010_IP-Rechner.csproj.CoreCompileInputs.cache
+D:\Git Repos\C# School\010_IP-Rechner\010_IP-Rechner\obj\x86\Debug\010_IP-Rechner.exe
+D:\Git Repos\C# School\010_IP-Rechner\010_IP-Rechner\obj\x86\Debug\010_IP-Rechner.pdb

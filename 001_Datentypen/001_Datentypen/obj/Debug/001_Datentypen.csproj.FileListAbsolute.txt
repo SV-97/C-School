@@ -1,0 +1,10 @@
+D:\Git Repos\C# School\001_Datentypen\001_Datentypen\bin\Debug\001_Datentypen.exe.config
+D:\Git Repos\C# School\001_Datentypen\001_Datentypen\bin\Debug\001_Datentypen.exe
+D:\Git Repos\C# School\001_Datentypen\001_Datentypen\bin\Debug\001_Datentypen.pdb
+D:\Git Repos\C# School\001_Datentypen\001_Datentypen\obj\Debug\001_Datentypen.csprojResolveAssemblyReference.cache
+D:\Git Repos\C# School\001_Datentypen\001_Datentypen\obj\Debug\_001_Datentypen.Form1.resources
+D:\Git Repos\C# School\001_Datentypen\001_Datentypen\obj\Debug\_001_Datentypen.Properties.Resources.resources
+D:\Git Repos\C# School\001_Datentypen\001_Datentypen\obj\Debug\001_Datentypen.csproj.GenerateResource.Cache
+D:\Git Repos\C# School\001_Datentypen\001_Datentypen\obj\Debug\001_Datentypen.csproj.CoreCompileInputs.cache
+D:\Git Repos\C# School\001_Datentypen\001_Datentypen\obj\Debug\001_Datentypen.exe
+D:\Git Repos\C# School\001_Datentypen\001_Datentypen\obj\Debug\001_Datentypen.pdb

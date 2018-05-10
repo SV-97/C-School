@@ -1,0 +1,2 @@
+\\franz-oberthuer\daten$\SchuelerHome\TSE1718\volzstefan\Visual Studio 2010\Projects\001_HelloWorld\001_HelloWorld\obj\x86\Debug\_001_HelloWorld.Properties.Resources.resources
+\\franz-oberthuer\daten$\SchuelerHome\TSE1718\volzstefan\Visual Studio 2010\Projects\001_HelloWorld\001_HelloWorld\obj\x86\Debug\001_HelloWorld.csproj.GenerateResource.Cache

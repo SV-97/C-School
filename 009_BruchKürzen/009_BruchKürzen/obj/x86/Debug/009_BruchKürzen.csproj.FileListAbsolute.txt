@@ -1,0 +1,8 @@
+H:\Visual Studio 2010\Projects\009_BruchKürzen\009_BruchKürzen\bin\Debug\009_BruchKürzen.exe
+H:\Visual Studio 2010\Projects\009_BruchKürzen\009_BruchKürzen\bin\Debug\009_BruchKürzen.pdb
+H:\Visual Studio 2010\Projects\009_BruchKürzen\009_BruchKürzen\obj\x86\Debug\009_BruchKürzen.csprojResolveAssemblyReference.cache
+H:\Visual Studio 2010\Projects\009_BruchKürzen\009_BruchKürzen\obj\x86\Debug\_009_BruchKürzen.Form1.resources
+H:\Visual Studio 2010\Projects\009_BruchKürzen\009_BruchKürzen\obj\x86\Debug\_009_BruchKürzen.Properties.Resources.resources
+H:\Visual Studio 2010\Projects\009_BruchKürzen\009_BruchKürzen\obj\x86\Debug\009_BruchKürzen.csproj.GenerateResource.Cache
+H:\Visual Studio 2010\Projects\009_BruchKürzen\009_BruchKürzen\obj\x86\Debug\009_BruchKürzen.exe
+H:\Visual Studio 2010\Projects\009_BruchKürzen\009_BruchKürzen\obj\x86\Debug\009_BruchKürzen.pdb
