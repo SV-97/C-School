@@ -174,7 +174,7 @@
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(418, 20);
             this.textBox5.TabIndex = 13;
-            this.textBox5.Text = "D:\\Git Repos\\C# School\\012_CD-Bibliothek\\012_CD-Bibliothek\\Collection.txt";
+            this.textBox5.Text = "D:\\Git Repos\\C-School\\012_CD-Bibliothek\\012_CD-Bibliothek\\Collection.txt";
             // 
             // textBox6
             // 
@@ -211,7 +211,6 @@
             this.listView1.TabIndex = 17;
             this.listView1.UseCompatibleStateImageBehavior = false;
             this.listView1.View = System.Windows.Forms.View.Details;
-            this.listView1.SelectedIndexChanged += new System.EventHandler(this.listView1_SelectedIndexChanged);
             // 
             // Form1
             // 

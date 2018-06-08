@@ -55,7 +55,7 @@ namespace _012_CD_Bibliothek
             button3.Enabled = false;
             textBox6.Enabled = false;
 
-            using (StreamReader sr = new StreamReader(@"D:\Git Repos\C# School\012_CD-Bibliothek\012_CD-Bibliothek\Dict"))
+            using (StreamReader sr = new StreamReader(@"D:\Git Repos\C-School\012_CD-Bibliothek\012_CD-Bibliothek\Dict"))
             {
                 string text = sr.ReadToEnd();
                 string[] lines = text.Split('\r');
@@ -270,11 +270,6 @@ namespace _012_CD_Bibliothek
                     break;
                 }
             }
-        }
-
-        private void listView1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
         }
     }
 }

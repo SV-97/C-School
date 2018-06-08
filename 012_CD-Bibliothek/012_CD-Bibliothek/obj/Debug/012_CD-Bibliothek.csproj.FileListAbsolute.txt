@@ -10,3 +10,15 @@ D:\Git Repos\C# School\012_CD-Bibliothek\012_CD-Bibliothek\obj\Debug\012_CD-Bibl
 D:\Git Repos\C# School\012_CD-Bibliothek\012_CD-Bibliothek\obj\Debug\_012_CD_Bibliothek.Form2.resources
 D:\Git Repos\C# School\012_CD-Bibliothek\012_CD-Bibliothek\obj\Debug\_012_CD_Bibliothek.Master.resources
 D:\Git Repos\C# School\012_CD-Bibliothek\012_CD-Bibliothek\obj\Debug\012_CD-Bibliothek.csprojResolveAssemblyReference.cache
+D:\Git Repos\C-School\012_CD-Bibliothek\012_CD-Bibliothek\bin\Debug\012_CD-Bibliothek.exe.config
+D:\Git Repos\C-School\012_CD-Bibliothek\012_CD-Bibliothek\bin\Debug\012_CD-Bibliothek.exe
+D:\Git Repos\C-School\012_CD-Bibliothek\012_CD-Bibliothek\bin\Debug\012_CD-Bibliothek.pdb
+D:\Git Repos\C-School\012_CD-Bibliothek\012_CD-Bibliothek\obj\Debug\_012_CD_Bibliothek.Form1.resources
+D:\Git Repos\C-School\012_CD-Bibliothek\012_CD-Bibliothek\obj\Debug\_012_CD_Bibliothek.Form2.resources
+D:\Git Repos\C-School\012_CD-Bibliothek\012_CD-Bibliothek\obj\Debug\_012_CD_Bibliothek.Master.resources
+D:\Git Repos\C-School\012_CD-Bibliothek\012_CD-Bibliothek\obj\Debug\_012_CD_Bibliothek.Properties.Resources.resources
+D:\Git Repos\C-School\012_CD-Bibliothek\012_CD-Bibliothek\obj\Debug\012_CD-Bibliothek.csproj.GenerateResource.Cache
+D:\Git Repos\C-School\012_CD-Bibliothek\012_CD-Bibliothek\obj\Debug\012_CD-Bibliothek.csproj.CoreCompileInputs.cache
+D:\Git Repos\C-School\012_CD-Bibliothek\012_CD-Bibliothek\obj\Debug\012_CD-Bibliothek.exe
+D:\Git Repos\C-School\012_CD-Bibliothek\012_CD-Bibliothek\obj\Debug\012_CD-Bibliothek.pdb
+D:\Git Repos\C-School\012_CD-Bibliothek\012_CD-Bibliothek\obj\Debug\012_CD-Bibliothek.csprojAssemblyReference.cache
