@@ -17,6 +17,7 @@ namespace _015_MsgBoxOnClose
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Master());
+            MessageBox.Show("Und jetzt ist der Master zu");
         }
     }
 }
