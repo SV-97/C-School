@@ -39,7 +39,7 @@ namespace _017_ÜbungSchA
             }
 
             DasStruct strct = new DasStruct();
-            strct.dim1 = new double[] { 1.0, 2.0, 4.0};
+            strct.dim1 = new double[] { 1.0, 2.0, 4.0 };
             for (int i = 0; i < strct.dim1.Length; i++)
             {
                 Console.WriteLine(strct.dim1[i]);
