@@ -19,9 +19,13 @@ namespace _022_Lotto
 
         private int[] bubblesort(int[] input)
         {
-            List<int> list_1 = new List<int> { };
+            /*Bubblesort implementation to sort array of int
+             Args:
+                input: array to be sorted
+             */
+            List<int> list_1 = new List<int> {};
             list_1.AddRange(input);
-            List<int> sortiert = new List<int> { };
+            List<int> sortiert = new List<int> {};
             while (list_1.Count() > 1)
             {
                 for (int i = list_1.Count()-1; i > 0; i--)
@@ -50,16 +54,40 @@ namespace _022_Lotto
             return output;
         }
 
+        private int[] bubblesort_2(ref int[] input)
+        {
+            /* Bubblesort implementation to sort array of int in place
+            Args:  
+                input: reference to array to be sorted
+             */
+            int sorted = input.Length;
+            while (sorted > 0)
+            {
+                for (int i = input.Length-1; i > input.Length - sorted; i--)
+                {
+                    int r = input[i];
+                    int l = input[i-1];
+                    if (l > r)
+                    {
+                        input[i] = l;
+                        input[i - 1] = r;
+                    }
+                }
+                sorted--;
+            }
+            return input;
+        }
+
         private void button1_Click(object sender, EventArgs e)
         {
             textBox1.Text = "";
-            Random rnd = new Random(); //0 - 49
+            Random rnd = new Random(); //1 - 49
             int[] zahlen = new int[6];
             for (int i = 0; i < zahlen.Length; i++)
             {
                 do
                 {
-                    int zahl = rnd.Next(0, 49);
+                    int zahl = rnd.Next(1, 50);
                     if (!zahlen.Contains(zahl))
                     {
                         zahlen[i] = zahl;
@@ -67,8 +95,7 @@ namespace _022_Lotto
                     }
                 } while (true);
             }
-
-            zahlen = bubblesort(zahlen);
+            bubblesort_2(ref zahlen);
             foreach (var zahl in zahlen)
             {
                 textBox1.Text += zahl.ToString() + "\r\n";
