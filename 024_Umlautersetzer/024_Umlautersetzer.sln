@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "024_Umlautersetzer", "024_Umlautersetzer\024_Umlautersetzer.csproj", "{C53C9734-427C-4A0A-BF5B-645104DFC525}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C53C9734-427C-4A0A-BF5B-645104DFC525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C53C9734-427C-4A0A-BF5B-645104DFC525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C53C9734-427C-4A0A-BF5B-645104DFC525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C53C9734-427C-4A0A-BF5B-645104DFC525}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8410F8AA-C00C-47BA-9366-228648BD638F}
+	EndGlobalSection
+EndGlobal
