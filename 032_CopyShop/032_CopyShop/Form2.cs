@@ -33,3 +33,33 @@ namespace _032_CopyShop
         }
     }
 }
+
+
+
+
+
+
+class zeitkonto
+{
+    private double arbeitszeit;
+    private double restzeit;
+    public double get_restzeit()
+    {
+        return restzeit;
+    }
+    public zeitkonto()
+    {
+        arbeitszeit = 0;
+        restzeit = 150;
+    }
+    public zeitkonto(double arbzeit)
+    {
+        arbeitszeit = arbzeit;
+        restzeit = 150 - arbzeit;
+    }
+    public void gutschrift(double stunden)
+    {
+        arbeitszeit += stunden;
+        restzeit -= stunden;
+    }
+}
