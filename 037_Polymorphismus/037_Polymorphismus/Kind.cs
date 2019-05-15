@@ -8,9 +8,15 @@ namespace _037_Polymorphismus
 {
     class Kind1: Basis
     {
+        // Implementiert VirtuelleMethode nicht selbst
         public override int AbstrakteMethode()
         {
             return 1;
+        }
+
+        public new int Methode()
+        {
+            return 2;
         }
     }
 
@@ -55,7 +61,7 @@ namespace _037_Polymorphismus
         public int VirtuelleMethode()
         {
             return 42;
-        }
+        } // -> Basis.cs
     }
 
     class Kind5 : Basis2

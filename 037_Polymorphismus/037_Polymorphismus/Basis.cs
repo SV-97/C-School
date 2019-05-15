@@ -8,13 +8,18 @@ namespace _037_Polymorphismus
 {
     abstract class Basis
     {
+        public int Methode()
+        {
+            return 420;
+        }
+
         public virtual int VirtuelleMethode() //nie private
         {
             return 5;
         }
 
         public abstract int AbstrakteMethode();
-    }
+    } // -> Kind.cs
 
     class Basis2 : Basis
     {
